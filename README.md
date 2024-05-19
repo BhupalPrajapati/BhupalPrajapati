@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="left">Hey 👋 I'm Bhupal Prajapati</h1>
 
 ###
@@ -22,6 +23,14 @@ Here are some ideas to get you started:
 
 ###
 
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning Web3, Crypto<br>- 📫 How to reach me: bhupalprajapati12@gmail.com</p>
+
+###
 <p align="left">Connect with me:</p>
 
 ###
