@@ -85,10 +85,16 @@ I'm a passionate **Backend Developer** with extensive experience in building sca
   <img src="https://streak-stats.demolab.com?user=BhupalPrajapati&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🐍 Contribution Graph
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BhupalPrajapati/BhupalPrajapati/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhupalPrajapati&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BhupalPrajapati&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🤝 Let's Connect!
