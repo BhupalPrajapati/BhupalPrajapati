@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h4 align="center">A Passionate Backend Developer from India</h4>
+<h4 align="center">Passionate Backend Developer</h4>
 
 ###
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning Web3, Crypto<br>- 📫 How to reach me: bhupalprajapati12@gmail.com</p>
+<p align="left">- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning Blocckchain, Web3, Crypto<br>- 📫 How to reach me: bhupalprajapati12@gmail.com</p>
 
 ###
 <p align="left">Connect with me:</p>
@@ -55,17 +55,17 @@ Here are some ideas to get you started:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="40" alt="rust logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
+  <img width="5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
